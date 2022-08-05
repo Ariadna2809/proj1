@@ -66,7 +66,7 @@ TEMPLATES = [
                 'django.contrib.messages.context_processors.messages',
             ],
             'builtins':[
-                'DjangoApp.proj1.views'
+                'Django-4.1.dist-info.proj1.views'
             ]
         },
     },
